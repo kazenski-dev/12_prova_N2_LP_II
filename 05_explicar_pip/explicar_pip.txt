@@ -1,0 +1,8 @@
+Explicando o que é PIP:
+
+pip é um sistema de gerenciamento de pacotes padrão de usado para instalar e gerenciar pacotes de software escritos em Python. 
+
+A maioria das distribuições do Python vem com o pip pré-instalado. O Python 2.7.9 e posteriores (na série python2) e o Python 3.4 e posteriores incluem o pip (pip3 para Python 3), por padrão.
+
+Uma grande vantagem do pip é a facilidade de sua interface de linha de comando, que torna a instalação de pacotes de software Python tão fácil quanto emitir um comando em cmd.
+
