@@ -1,0 +1,10 @@
+Não utilizeinenhuma biblioteca nosmeus arquivos.
+
+Mas pressupondo que eu finalizasse o meu código, usaria as seguintes:
+
+01- datetime: O módulo datetime fornece as classes para manipulação de datas e horas.
+Usaria para informar ao usuario os momentos específicos de conexão ao banco e fechamento, bem como início de operações e término.
+
+02- sys.exit: Saia do Python.
+Usado para controlar a decisão do usuario nos loops de escolha de menu para saída do sistema.
+
