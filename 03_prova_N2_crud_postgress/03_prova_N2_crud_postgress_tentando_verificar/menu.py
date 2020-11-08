@@ -73,7 +73,7 @@ def executa_operacao(opcao):
             email = get_email()
             valid_email = validate_email(email)
 
-            if validate_nome == 1 and validate_email == 1:
+            if valid_nome == 1 and valid_email == 1:
 
                 conn = Connection().get_connection()
 
